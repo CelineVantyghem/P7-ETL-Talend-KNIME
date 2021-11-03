@@ -1,8 +1,8 @@
 # P7-ETL-Talend-KNIME
 ETL / Talend / Talend Cloud / KNIME
 
-Analysez des indicateurs de l'égalité femme-homme avec Knime
-nb : ce projet a également été réalisé avec Talend et Talend Cloud pour la partie ETL
+Analysez des indicateurs de l'égalité femme-homme avec Knime.
+NB : ce projet a également été réalisé avec Talend et Talend Cloud pour la partie ETL
 
 Compétences : 
 -Préparer des données pour l'analyse en respectant les normes internes à l’entreprise
